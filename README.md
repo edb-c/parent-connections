@@ -1,5 +1,15 @@
 # Parent Connections
 
+Live Demo:  https://parent-connections.herokuapp.com/
+
+This application is created to demonstrate ability to
+  - Develop a social network for parents to create profiles, share posts, and network with other parents.
+  - Build extensive backend API using Express and Node.js
+  - Use React/Redux for frontend and state management
+  - Use MongoDB/Mongoose to persist parent information
+  - Use JSON Web Tokens to protect routes/endpoints
+
+
 
 ## Quick Start
 

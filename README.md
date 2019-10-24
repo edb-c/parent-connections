@@ -9,7 +9,7 @@ This application is created to demonstrate ability to
   - Use MongoDB/Mongoose to persist parent information
   - Use JSON Web Tokens to protect routes/endpoints
 
-![Screenshot](https://github.com/edb-c/js-tictactoe-rails-api-v-000/blob/master/Screenshot.png)
+![Screenshot](https://github.com/edb-c/parent-connections/blob/master/parent-connections.png)
 
 ## Quick Start
 
